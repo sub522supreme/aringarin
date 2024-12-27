@@ -2,5 +2,5 @@
 // It includes a simple function to display an alert when the page loads.
 
 document.addEventListener('DOMContentLoaded', function() {
-    alert('Welcome to my web page!');
+    alert('첫 홈페이지');
 });
